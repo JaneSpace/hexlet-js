@@ -1,2 +1,3 @@
-import printLastElement from "./src/index.js";
+import printLastElement from './src/index.js';
+
 printLastElement();
